@@ -1,0 +1,35 @@
+{
+	"binatang": [
+		{
+			"nama": "Beruang Kutub",
+			"sourcefile": "beruang-kutub",
+			"asal": "Kutub Utara",
+			"tinggi": "230 cm",
+			"keterangan": "Berunag ini merupakan beruang terganteng sedunia"
+		},{
+			"nama": "Dinosaurus T-Rex",
+			"sourcefile": "dinosaur",
+			"asal": "Eropa",
+			"tinggi": "1200 cm",
+			"keterangan": "Jenis Dinosaurus ini merupakan pemangsa dijamannya"
+		},{
+			"nama": "Kambing Kutub",
+			"sourcefile": "kambing-kutub",
+			"asal": "Northwegia",
+			"tinggi": "200 cm",
+			"keterangan": "Kambing ini merupakan kambing tertua"
+		},{
+			"nama": "Kucing Besar",
+			"sourcefile": "kucing-besar",
+			"asal": "Amerika Selatan",
+			"tinggi": "230 cm",
+			"keterangan": "Kawaii Nekooooo!!!"
+		},{
+			"nama": "Singa",
+			"sourcefile": "singa",
+			"asal": "Texas",
+			"tinggi": "230 cm",
+			"keterangan": "Binatang terganas"
+		}
+	]
+}
