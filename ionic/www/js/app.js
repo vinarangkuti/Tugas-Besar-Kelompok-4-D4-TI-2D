@@ -23,8 +23,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
 .controller('ListController', ['$scope', '$http', function($scope, $http) {
   $http.get('js/data.json').success(function(data) {
-    $scope.binatang = data;
-    $scope.$apply() ;
+    $scope.binatang = data.binatang;
     
   });
 }])
