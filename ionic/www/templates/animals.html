@@ -27,8 +27,8 @@
     <!--
       The nav bar that will be updated as we navigate between views.
     -->
-    <ion-pane>
     <ion-view view-title="Daftar Binatang Hari Ini">
+        <ion-pane>
     <div class="bar bar-subheader item-input-inset bar-light">
       <label class="item-input-wrapper">
         <i class="icon ion-search placeholder-icon"></i>
@@ -46,8 +46,8 @@
         </ion-item>
       </ion-list>
     </ion-content>
+      </ion-pane>
     </ion-view>
-    </ion-pane>
     <h ng-repeat='item in binatang'> 
     {{item.nama}}
     </h>
